@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Source+Sans+Pro&family=Unbounded&display=swap');
 
 *{
     margin: 0;
@@ -8,13 +9,26 @@
     .navbar-brand{
         color: white;
         font-size: 32px;
-        .navbar-nav{
-            background-color: white;
-            .nav-item{
-                .nav-link{
-                    color: white;
-                }
+        font-family: 'Poppins', sans-serif;
+    }
+    .navbar-toggler{
+        color: white;
+        background-color: white;
+        outline: none;
+    }
+    .navbar-nav{
+        .nav-item{
+            color: white;
+            .nav-link{
+                color: white;
+                font-size:18px;
+                font-family: 'Poppins', sans-serif;
             }
         }
     }
+    
+}
+.jumbotron, .items{
+    margin-top: 5%;
+  
 }
