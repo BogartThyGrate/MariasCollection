@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.cnav {
+  background-color: black;
+}
+.cnav .navbar-brand {
+  color: white;
+  font-size: 32px;
+}
+.cnav .navbar-brand .navbar-nav {
+  background-color: white;
+}
+.cnav .navbar-brand .navbar-nav .nav-item .nav-link {
+  color: white;
+}/*# sourceMappingURL=index.css.map */
