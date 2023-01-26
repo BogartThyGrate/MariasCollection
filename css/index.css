@@ -4,32 +4,6 @@
   padding: 0;
 }
 
-.cnav {
-  top: 0;
-  left: 0;
-  position: -webkit-sticky;
-  position: sticky;
-  background-color: black;
-}
-.cnav .navbar-brand {
-  color: white;
-  font-size: 32px;
-  font-family: "Poppins", sans-serif;
-}
-.cnav .navbar-toggler {
-  color: white;
-  background-color: white;
-  outline: none;
-}
-.cnav .navbar-nav .nav-item {
-  color: white;
-}
-.cnav .navbar-nav .nav-item .nav-link {
-  color: white;
-  font-size: 18px;
-  font-family: "Poppins", sans-serif;
-}
-
 .jumbotron, .items {
   margin-top: 5%;
 }
