@@ -1,8 +1,9 @@
 .cnav{
     top: 0;
-    left: 0;
     position: sticky;
     background-color: black;
+    padding-top: 1%;
+    padding-bottom: 1%;
     .navbar-brand{
         color: white;
         font-size: 32px;
@@ -18,7 +19,7 @@
             color: white;
             .nav-link{
                 color: white;
-                font-size:18px;
+                font-size:20px;
                 font-family: 'Poppins', sans-serif;
             }
         }
