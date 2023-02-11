@@ -1,0 +1,1 @@
+@import"https://fonts.googleapis.com/css2?family=Poppins&family=Source+Sans+Pro&family=Unbounded&display=swap";*{margin:0;padding:0}.mytop{background-image:url("/img/PRACTICEone.png");height:100vh;display:flex;position:static;top:0;left:0;z-index:-1;background-size:cover;background-repeat:no-repeat}main{height:100vh;overflow:hidden}/*# sourceMappingURL=index.css.map.map */

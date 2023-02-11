@@ -4,10 +4,19 @@
   padding: 0;
 }
 
-.jumbotron, .items {
-  margin-top: 5%;
+.mytop {
+  background-image: url("/img/PRACTICEone.png");
+  height: 100vh;
+  display: flex;
+  position: static;
+  top: 0;
+  left: 0;
   z-index: -1;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-.jumbotron .banner, .items .banner {
-  padding: 10%;
+
+main {
+  height: 100vh;
+  overflow: hidden;
 }/*# sourceMappingURL=index.css.map */

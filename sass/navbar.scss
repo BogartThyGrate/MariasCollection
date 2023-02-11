@@ -1,29 +1,25 @@
-.cnav{
-    top: 0;
-    position: sticky;
-    z-index: 1;
-    background-color: black;
-    padding-top: 1%;
-    padding-bottom: 1%;
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    
+z-index: 1;
+top: 0;
+left: 0;
+position: sticky;
+display: flex;
+background-color: black;
     .navbar-brand{
         color: white;
-        font-size: 32px;
-        font-family: 'Poppins', sans-serif;
-    }
-    .navbar-toggler{
-        color: white;
-        background-color: white;
-        outline: none;
     }
     .navbar-nav{
         .nav-item{
-            color: white;
             .nav-link{
                 color: white;
-                font-size:20px;
-                font-family: 'Poppins', sans-serif;
             }
         }
     }
-    
 }
